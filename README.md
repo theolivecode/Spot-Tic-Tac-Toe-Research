@@ -1,5 +1,5 @@
-# Spot-Tic-Tac-Toe-Research
-## Research Paper: Spot Plays Tic-Tac-Toe
+# Spot Tic-Tac-Toe Research
+## Research on Human-Robot Interaction with Boston Dynamics' Spot
 
 This repository contains the research paper with the focus on human-robot interaction by implementing  Boston Dynamics' robot Spot to play Tic-Tac-Toe autonomously.
 
